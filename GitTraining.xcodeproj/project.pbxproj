@@ -11,6 +11,7 @@
 		FFDDF3291E9B6FA6004EA793 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFDDF3271E9B6FA6004EA793 /* Main.storyboard */; };
 		FFDDF32B1E9B6FA6004EA793 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFDDF32A1E9B6FA6004EA793 /* Assets.xcassets */; };
 		FFDDF32E1E9B6FA6004EA793 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFDDF32C1E9B6FA6004EA793 /* LaunchScreen.storyboard */; };
+		FFDDF3371E9B7591004EA793 /* StudentsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDDF3361E9B7591004EA793 /* StudentsTableVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FFDDF32A1E9B6FA6004EA793 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FFDDF32D1E9B6FA6004EA793 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FFDDF32F1E9B6FA6004EA793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFDDF3361E9B7591004EA793 /* StudentsTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentsTableVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FFDDF3351E9B7139004EA793 /* Supporting Files */,
 				FFDDF3271E9B6FA6004EA793 /* Main.storyboard */,
+				FFDDF3361E9B7591004EA793 /* StudentsTableVC.swift */,
 				FFDDF32A1E9B6FA6004EA793 /* Assets.xcassets */,
 				FFDDF32C1E9B6FA6004EA793 /* LaunchScreen.storyboard */,
 				FFDDF32F1E9B6FA6004EA793 /* Info.plist */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFDDF3241E9B6FA5004EA793 /* AppDelegate.swift in Sources */,
+				FFDDF3371E9B7591004EA793 /* StudentsTableVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
